@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace Mc2.CrudTest.Domain.Generators
 {
-    public static class WeatherForecastGenerator
+    public static class ForcastGenerateWeather
     {
         private static readonly string[] Summaries =
         {
